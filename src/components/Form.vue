@@ -1,7 +1,7 @@
 <template>
     <!-- Author: FormBold Team -->
     <!-- Learn More: https://formbold.com -->
-    <form action="https://formbold.com/s/FORM_ID" method="POST">
+    <form action="" method="POST">
         <div class="mb-5">
             <label for="username" class="mb-3 block text-base font-medium text-[#07074D]">
                 Username

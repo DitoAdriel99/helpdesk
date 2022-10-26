@@ -188,7 +188,7 @@ export default {
     },
     methods: {
         getTickets() {
-            const URL = "http://127.0.0.1:8888/cust/getTickets"
+            const URL = "http://127.0.0.1:8888/cust/gettickets"
             axios.get(URL).then(res => {
                 console.log(res.data.datas)
                 this.tickets = res.data.data
